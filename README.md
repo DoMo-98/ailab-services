@@ -1,2 +1,2 @@
-# ailab-services
-This repository contains the backend microservices for the AILab microblogging platform, designed to handle the core functionalities of the system.
+# AILab Services
+This repository contains the backend microservices for the AILab microblogging platform, designed to handle the core functionalities of the system. Each service is modular, scalable, and responsible for specific tasks such as user management, content handling, and interaction with AI features. These microservices interact with the frontend to provide a seamless and efficient user experience, allowing for future integration of AI-driven capabilities.
